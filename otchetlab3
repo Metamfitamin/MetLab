@@ -1,0 +1,26 @@
+1#!/bin/bash
+cat diary.txt
+2#!/bin/bash
+cat /home/suzen/:-???
+3#!/bin/bash
+while read LINE; do echo "$LINE"; done < "-diary.txt-"
+14#!/bin/bash
+echo "Flag is: $(ls part1/)$(ls ../john/Documents/part2/)$(ls ../john/Desktop/part3/)"
+15 #!/bin/bash
+ cd .. 
+ cd home 
+ cd suzen 
+ ls 
+16#!/bin/bash
+ id 
+17#!/bin/bash
+ man diary
+18#!/bin/bash
+ man diary
+19 #!/bin/bash
+mkdir -p /home/suzen/Documents/projects/lab19/using/simple/bash/commands
+20#!/bin/bash
+rm -r john
+21#!/bin/bash
+rm [0-9].txt && rm [a-z].png && rm test-.log
+# MetLab
