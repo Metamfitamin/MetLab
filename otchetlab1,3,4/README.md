@@ -21,3 +21,4 @@
 | Вторая лаба	|[Raid, или как поломать систему](https://github.com/bykvaadm/OS/tree/master/admin/lab2)|
 | Третья лаба	|[Как создать репозиторий через git](https://github.com/bykvaadm/OS/tree/master/admin/lab3)|
 | Четвертая лаба|[Как писать README](https://github.com/bykvaadm/OS/tree/master/admin/lab4)|
+
