@@ -1,3 +1,4 @@
-labs otchets for OS. **Марчнеков А. Д.* ББСО-03-18
-# MetLab
+# MetLab labs otchets for OS. 
+**Марченков А. Д. ББСО-03-18**
+
 
