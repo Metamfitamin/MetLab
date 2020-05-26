@@ -50,4 +50,5 @@
 - Смотрим данные по lvm и монтируем системные файлы плюс lv к pv.
 ![Image alt](https://github.com/Metamfitamin/MetLab/blob/master/lab2/part1/VirtualBox_deb-met_23_05_2020_21_23_52.png)
 ![Image alt](https://github.com/Metamfitamin/MetLab/blob/master/lab2/part1/VirtualBox_deb-met_23_05_2020_21_24_05.png)
+- Это все , теперь мы создали работающий RAID1, который будет служить нам верой и правдой в следующих частях этой лабы.
 
